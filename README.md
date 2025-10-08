@@ -1,1 +1,1 @@
-# Pyhon.autotests
+# Python.autotests
